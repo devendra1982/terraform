@@ -1,0 +1,9 @@
+Module-Project/Dev/.terraform/*
+Module-Project/Dev/.terraform
+Module-Project/Dev/.terraform/
+testing/prod/.terraform/
+testing/prod/.terraform/*
+TERRAFORM/.terraform/`
+TERRAFORM/.terraform/*
+tf-files/.terraform/*
+tf-files/.terraform/
